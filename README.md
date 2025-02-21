@@ -10,19 +10,19 @@
 
 ## 21.2
 
-- [ ] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
+- [X] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz.
   
-  - [ ] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
-  - [ ] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
-- [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt.
+  - [x] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
+  - [X] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
+- [X] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt.
   
-- [ ] Referenz-Schreiben ausfüllen:
+- [X] Referenz-Schreiben ausfüllen:
   
-  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
-  - [ ] Evidenz für diese Eigenschaften finden und ausformulieren
-  - [ ] Rechtschreibeprüfung
+  - [X] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [X] Evidenz für diese Eigenschaften finden und ausformulieren
+  - [X] Rechtschreibeprüfung
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich zum ersten mal an meiner Bewerbungswebiste gearbeitet, das heisst, ich habe an der Website Layout gebrainstormt. Heraus kam ein kreativies Layout-Design auf dem ich meine Website aufbauen kann. Ausserdem habe ich unseriösen Informationen von der Suchmaschine gelöscht, wenn man meinen Namen eingibt. Ein Refernzschreiben habe ich auch geschrieben, drinnen sind auch Ziel auf die ich in diesem Halbjahr hinarbeiten kann
 
 ☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
