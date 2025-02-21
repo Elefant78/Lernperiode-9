@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten?
-2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten? *Skills*:C#, SQL, HTML&CSS, JavaScript, Powershell. *future-skills* C++, tieferes Wissen in Backend
+2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten? **Skills**:C#, SQL, HTML&CSS, JavaScript, Powershell. **future-skills** C++, tieferes Wissen in Backend
 3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode? Spell-Cheker oder Supway surfer type game
 
 ## 21.2
