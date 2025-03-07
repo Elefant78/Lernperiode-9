@@ -38,21 +38,20 @@ Heute habe ich mein LinkedIn-Profil(https://www.linkedin.com/in/tim-tafolli-9139
 
 ## 7.3
 
-- [ ] Nebenseite, mehr über mich Implementieren
-- [ ] Nebenseite, mehr über mich, auszuputzen , das heisst Farbschema
-- [ ] Rückmeldung geben.
+- [X] Nebenseite, mehr über mich Implementieren
+- [X] Nebenseite, mehr über mich, auszuputzen , das heisst Farbschema
+- [X] Rückmeldung geben.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich an der der Bewerbungswebsite gearbeitet, ich habe jedoch gemerkt, dass das noch nicht genug Zeit ist um eine Seriöse und Visuell anschaulich zu machen. ich habe an das Grundgerüst gearbeitet, dieses kann ich nun für die zukünfige Bausteine benutzten. Ausserdem habe wir uns gegeseitig die Website bewertet, ich habe viele interessante Dinge gsehen, wie die lieblings Song dieser Woche oder der einge Webserver. Ich habe erfahren was alles möglich ist mit der Website, ich will auch etwas inovatives in meiner Website implementieren.
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 14.3
 
-- [ ] 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Die Fertigstellung von Bewerung von Lernpartner und die Umsetzung der Rückmeldund zue Bewerbung
+- [ ] 3 Quotes auswählen und in der Website ausputzten
+- [ ] Projekts nebenseite implementieren
+- [ ] Even more about Nebenseite erschaffen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
