@@ -32,7 +32,7 @@ Heute habe ich zum ersten mal an meiner Bewerbungswebiste gearbeitet, das heisst
 - [X] GitHub-Profil professionalisieren (`readme.md`)
 - [X] Start-Seite: Was ist das dringendste AP?
 
-Heute habe ich mein LinkedIn-Profil erstellt, ich habe mein Probil verschönert, das heisst ein sinnvolles Profibild gewählt, meine Fähigkeiten und Fertigkeiten erläutert, also C#, SQL usw, dazu habe ich mir einen passenden Slogang ausgedacht. Das wichtigste auf LinkedIn ist es sich sinnvoll zu verneztzen. Ich habe Personen angefragt, die ich erstens kenne  und die mir einen Mehrwert geben für meine zukünftige Karriere.
+Heute habe ich mein LinkedIn-Profil(https://www.linkedin.com/in/tim-tafolli-91395a353/) erstellt, ich habe mein Probil verschönert, das heisst ein sinnvolles Profibild gewählt, meine Fähigkeiten und Fertigkeiten erläutert, also C#, SQL usw, dazu habe ich mir einen passenden Slogang ausgedacht. Das wichtigste auf LinkedIn ist es sich sinnvoll zu verneztzen. Ich habe Personen angefragt, die ich erstens kenne  und die mir einen Mehrwert geben für meine zukünftige Karriere.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
