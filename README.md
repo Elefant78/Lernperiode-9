@@ -48,11 +48,12 @@ Heute habe ich an der der Bewerbungswebsite gearbeitet, ich habe jedoch gemerkt,
 
 ## 14.3
 
-- [ ] Die Fertigstellung von Bewerung von Lernpartner und die Umsetzung der Rückmeldund zue Bewerbung
-- [ ] 3 Quotes auswählen und in der Website ausputzten
+- [X] Die Fertigstellung von Bewerung von Lernpartner und die Umsetzung der Rückmeldund zue Bewerbung
+- [X] 3 Quotes auswählen und in der Website ausputzten
 - [ ] Projekts nebenseite implementieren
-- [ ] Even more about Nebenseite erschaffen.
+- [X] Even more about Nebenseite erschaffen.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich an meiner Website gearbeitet, ich habe die 3 Quotes, das schwierigste war es die Quotes so zu formatieren, dass es attraktiv aussieht. Einerseit hatte ich Probleme mit dem Grid, andererseits mit der Proportionen der grösse der Gridbox. Danach habe ich die Bewertung meines Lernpartners fertig gestellt, das gab mir eine andere Perspektive, neue Ideen, neue Techniken usw. Das schönne ist jede ist eigen und hat ihre eigene Persönlichkeit. Das erschaffen der Nebenseite ging as-planed. 
+
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
