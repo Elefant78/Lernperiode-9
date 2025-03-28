@@ -66,7 +66,13 @@ Heute habe ich an meiner Website gearbeitet, ich habe die 3 Quotes, das schwieri
 
 Ich habe zunächst eine moderne, benutzerfreundliche Bewerbungswebsite konzipiert, die sowohl ästhetisch als auch funktional überzeugt. Danach setzte ich das Design mit sauberem HTML, CSS und JavaScript um und integrierte ein interaktives Bewerbungsformular. Die Website wurde responsiv gestaltet, sodass sie auf allen Geräten optimal funktioniert. Anschließend testete ich die Seite gründlich auf verschiedenen Browsern und optimierte die Ladegeschwindigkeit. Nach finalen Anpassungen habe ich die Website erfolgreich auf einem Webserver bereitgestellt. Sie ist nun voll funktionsfähig, schnell und einfach zu bedienen.
 
-- [ ] 
+## 27.03
+
+- [ ] Project spell-cheker erste funktion schreiben
+- [ ] Strucker of Code offline erdenken 
+- [ ] Spell-cheker Datensatz von Deutschen Wöter finden
+ 
+
 
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
