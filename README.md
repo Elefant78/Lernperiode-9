@@ -34,6 +34,7 @@ Heute habe ich zum ersten mal an meiner Bewerbungswebiste gearbeitet, das heisst
 
 Heute habe ich mein LinkedIn-Profil(https://www.linkedin.com/in/tim-tafolli-91395a353/) erstellt, ich habe mein Probil verschönert, das heisst ein sinnvolles Profibild gewählt, meine Fähigkeiten und Fertigkeiten erläutert, also C#, SQL usw, dazu habe ich mir einen passenden Slogang ausgedacht. Das wichtigste auf LinkedIn ist es sich sinnvoll zu verneztzen. Ich habe Personen angefragt, die ich erstens kenne  und die mir einen Mehrwert geben für meine zukünftige Karriere.
 
+
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 7.3
@@ -50,10 +51,22 @@ Heute habe ich an der der Bewerbungswebsite gearbeitet, ich habe jedoch gemerkt,
 
 - [X] Die Fertigstellung von Bewerung von Lernpartner und die Umsetzung der Rückmeldund zue Bewerbung
 - [X] 3 Quotes auswählen und in der Website ausputzten
-- [ ] Projekts nebenseite implementieren
+- [ ] Projekts Nebenseite implementieren
 - [X] Even more about Nebenseite erschaffen.
 
 Heute habe ich an meiner Website gearbeitet, ich habe die 3 Quotes, das schwierigste war es die Quotes so zu formatieren, dass es attraktiv aussieht. Einerseit hatte ich Probleme mit dem Grid, andererseits mit der Proportionen der grösse der Gridbox. Danach habe ich die Bewertung meines Lernpartners fertig gestellt, das gab mir eine andere Perspektive, neue Ideen, neue Techniken usw. Das schönne ist jede ist eigen und hat ihre eigene Persönlichkeit. Das erschaffen der Nebenseite ging as-planed. 
+
+
+## 21.3
+
+- [X] Projekts Nebenseite implementieren
+- [X] Zielanalyse und Festlegung der Struktur
+- [X] Fehlerbehebungen und Performance-Optimierung
+- [X] Project Mappe erstellen
+
+Ich habe zunächst eine moderne, benutzerfreundliche Bewerbungswebsite konzipiert, die sowohl ästhetisch als auch funktional überzeugt. Danach setzte ich das Design mit sauberem HTML, CSS und JavaScript um und integrierte ein interaktives Bewerbungsformular. Die Website wurde responsiv gestaltet, sodass sie auf allen Geräten optimal funktioniert. Anschließend testete ich die Seite gründlich auf verschiedenen Browsern und optimierte die Ladegeschwindigkeit. Nach finalen Anpassungen habe ich die Website erfolgreich auf einem Webserver bereitgestellt. Sie ist nun voll funktionsfähig, schnell und einfach zu bedienen.
+
+- [ ] 
 
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
