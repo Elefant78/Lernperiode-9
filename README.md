@@ -68,11 +68,17 @@ Ich habe zunächst eine moderne, benutzerfreundliche Bewerbungswebsite konzipier
 
 ## 27.03
 
-- [ ] Project spell-cheker erste funktion schreiben
-- [ ] Strucker of Code offline erdenken 
-- [ ] Spell-cheker Datensatz von Deutschen Wöter finden
- 
+- [X] Project spell-cheker erste funktion schreiben
+- [X] Structur of Code offline erdenken 
+- [X] Spell-cheker Datensatz von Deutschen Wöter finden
 
+
+Heute habe ich an meinem spell-checker gearbeitet, dafür habe ich mir die Struktur online visualisiert und mir überlegt, wie ich den Code mit Python implmentieren kann. Danach habe ich mir eine List von allen deutschen Wörtern gesucht, eine geeignete Datei habe ich nach einer gewisser Zeit gefunden. Diese habe ich mir runtergeladen und meiner Projektmappe beigefügt. Damit konnte ich mit dem codieren starten. Ich habe zuerst eine Funktion geschrieben mit der ich die Daten aus der .txt in eine Liste umwandle.
+
+## 04.04.25
+
+- [ ] Funktion die Wort A mit Wort B vergleicht
+- [ ] Gui mit Tkinter erstellen
 
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
