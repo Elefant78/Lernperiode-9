@@ -80,5 +80,42 @@ Heute habe ich an meinem spell-checker gearbeitet, dafür habe ich mir die Struk
 - [ ] Funktion die Wort A mit Wort B vergleicht
 - [ ] Gui mit Tkinter erstellen
 
+## Projektbeschreibung – IntelliSpell (Deutscher Spell Checker)
+Projektziel:
+Ziel dieses Projekts war es, ein Python-Programm zu entwickeln, das deutsche Texte auf Rechtschreibfehler überprüft. Es nutzt ein benutzerdefiniertes Wörterbuch (wortliste.txt), erkennt fehlerhafte Wörter und schlägt passende Korrekturen vor.
+
+Funktionen im Überblick:
+
+Texteingabe direkt über die Konsole
+
+Trennung von Wörtern aus dem Text (auch bei Satzzeichen)
+
+Überprüfung jedes Wortes gegen eine deutsche Wortliste
+
+Korrekturvorschläge basierend auf Ähnlichkeitsanalyse (Levenshtein-Logik)
+
+Ausgabe aller falschen und richtigen Wörter im Klartext
+
+Verwendete Technologien:
+
+Programmiersprache: Python 3
+
+Module: difflib, re
+
+Text-Datei als Wörterbuch (wortliste.txt)
+
+
+##  Reflexion über meine Arbeitsweise
+
+Während der Entwicklung dieses Projekts habe ich modular gearbeitet: Ich habe zuerst die Wörterbuchverarbeitung gekapselt, dann die Fehlererkennung programmiert und abschließend die Benutzeroberfläche in der Konsole gestaltet. Besonders wichtig war mir, die Trennung von Logik (Fehlererkennung) und Interaktion (Benutzereingabe) sauber zu halten.
+
+Die Wahl von difflib zur Korrekturvorschlag-Erzeugung war pragmatisch – es bietet eine einfache, aber effektive Möglichkeit zur Ähnlichkeitsanalyse, ohne dass komplexe Algorithmen von Hand programmiert werden müssen.
+
+Ich habe mich bewusst für eine einfache Konsolenanwendung entschieden, da sie leicht erweiterbar ist. Für die Zukunft könnte ich mir vorstellen, eine grafische Benutzeroberfläche (z. B. mit tkinter) zu integrieren oder den Spell Checker mit grammatikalischen Analysen zu kombinieren.
+
+Die größte Herausforderung war, mit unsauberer Nutzereingabe (Groß-/Kleinschreibung, Satzzeichen) umzugehen. Hier hat sich der Einsatz von regulären Ausdrücken als sehr nützlich erwiesen.
+
+Rückblickend bin ich mit dem Ergebnis zufrieden: Der Code ist sauber, erweiterbar und praxisnah. Ich habe nicht nur Python-Kenntnisse vertieft, sondern auch gelernt, wie wichtig modularer Aufbau für spätere Erweiterungen ist.
+
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
